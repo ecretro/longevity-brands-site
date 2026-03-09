@@ -216,26 +216,29 @@ export default function HomePage() {
               <p>Phone: add your preferred number</p>
               <p>Use this area for seller inquiries, broker introductions, and strategic partnerships.</p>
 
-              <form className="form-grid">
-                <label>
-                  Name
-                  <input type="text" name="name" placeholder="Your name" />
-                </label>
-                <label>
-                  Email
-                  <input type="email" name="email" placeholder="you@example.com" />
-                </label>
-                <label>
-                  Message
-                  <textarea name="message" placeholder="Tell us about the opportunity" />
-                </label>
-                <button type="button" className="btn btn-primary">Sample Form Button</button>
-              </form>
+            <div style={{ marginTop: "1.5rem" }}>
+  <p className="helper">
+    For acquisition opportunities, founder conversations, broker introductions, and strategic partnerships,
+    please contact Longevity Brands directly.
+  </p>
 
-              <p className="helper">
-                This form is intentionally a visual placeholder. It can be connected later to Formspree,
-                Web3Forms, Resend, or your CRM after deployment.
-              </p>
+  <div style={{ marginTop: "1.25rem", display: "grid", gap: "0.75rem" }}>
+    <p><strong>Email:</strong> acquisitions@longevity-brands.com</p>
+    <p><strong>Phone:</strong> 732-610-5655</p>
+    <p><strong>Website:</strong> Longevity-Brands.com</p>
+  </div>
+
+  <div className="cta-row" style={{ marginTop: "1.5rem" }}>
+    <a className="btn btn-primary" href="mailto:acquisitions@longevity-brands.com">
+      Email Longevity Brands
+    </a>
+  </div>
+
+  <p className="helper" style={{ marginTop: "1rem" }}>
+    You can connect a full contact form later. For now, this creates a clean launch-ready contact section
+    without showing a non-working form.
+  </p>
+</div>              </p>
             </div>
           </div>
         </section>
