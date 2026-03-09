@@ -212,9 +212,9 @@ export default function HomePage() {
               <div className="section-kicker">Sample Contact Block</div>
               <h3 style={{fontSize: "1.8rem", marginTop: 0}}>Longevity Brands</h3>
               <p>Website: Longevity-Brands.com</p>
-              <p>Email: hello@longevity-brands.com</p>
-              <p>Phone: add your preferred number</p>
-              <p>Use this area for seller inquiries, broker introductions, and strategic partnerships.</p>
+              <p>Email: acquisitions@longevity-brands.com</p>
+              <p>Phone: 732-610-5655</p>
+              <p>Seller inquiries, broker introductions, and strategic partnerships.</p>
 
             <div style={{ marginTop: "1.5rem" }}>
   <p className="helper">
