@@ -98,7 +98,7 @@ export default function HomePage() {
                     </div>
                   </div>
                   <div className="mini-card">
-                    Before launch, replace the sample contact details with your actual email, phone, and preferred inquiry workflow.
+We partner with founders seeking a thoughtful, strategic buyer with a long-term vision for growth and brand development.
                   </div>
                 </div>
               </div>
@@ -132,8 +132,8 @@ export default function HomePage() {
               <div className="section-kicker">Investment Criteria</div>
               <h2>The types of businesses we are seeking to own and grow.</h2>
               <p className="lead">
-                This section is designed for sellers, brokers, and referral partners. It gives immediate clarity
-                on fit and helps the website feel like a serious acquisition platform.
+                We welcome confidential conversations with business owners, intermediaries, and strategic partners
+who share our focus on long-term value creation in health and wellness.
               </p>
             </div>
             <div className="criteria-grid">
@@ -188,12 +188,20 @@ export default function HomePage() {
               </div>
             </div>
             <div className="sidebar-card">
-              <div className="section-kicker">Suggested Launch Additions</div>
-              <p className="helper">Add a real inquiry form connected to your email.</p>
-              <p className="helper">Add your actual city or headquarters if you want geographic context.</p>
-              <p className="helper">Add a privacy policy and terms page in the footer.</p>
-              <p className="helper">Add a founder note or short investment philosophy from you personally.</p>
-            </div>
+  <div className="section-kicker">Our Philosophy</div>
+  <p className="helper">
+    We seek to acquire and build exceptional businesses serving the growing health, wellness,
+    fitness, and longevity economy.
+  </p>
+  <p className="helper">
+    Our approach emphasizes long-term value creation, premium brand positioning, operational discipline,
+    and thoughtful partnership with founders and operators.
+  </p>
+  <p className="helper">
+    We believe the strongest platforms are built by preserving what makes a business distinctive while
+    strengthening the systems required for durable growth.
+  </p>
+</div>
           </div>
         </section>
 
@@ -203,43 +211,37 @@ export default function HomePage() {
               <div className="section-kicker" style={{color: "#f3e7bd"}}>Contact</div>
               <h2>Interested in selling a business, partnering, or sharing a relevant opportunity?</h2>
               <p className="lead" style={{color: "#fbf6e7"}}>
-                This section is ready to become your main conversion point. Replace the sample details
-                below with your preferred contact workflow before launch.
+                We welcome confidential conversations with founders, intermediaries, and strategic partners
+  who share our focus on long-term value creation in health, fitness, and wellness.
               </p>
             </div>
 
-            <div className="contact-card">
-              <div className="section-kicker">Sample Contact Block</div>
-              <h3 style={{fontSize: "1.8rem", marginTop: 0}}>Longevity Brands</h3>
-              <p>Website: Longevity-Brands.com</p>
-              <p>Email: acquisitions@longevity-brands.com</p>
-              <p>Phone: 732-610-5655</p>
-              <p>Seller inquiries, broker introductions, and strategic partnerships.</p>
+     <div className="contact-card">
+  <div className="section-kicker">Contact</div>
+  <h3 style={{ fontSize: "1.8rem", marginTop: 0 }}>Longevity Brands</h3>
 
-            <div style={{ marginTop: "1.5rem" }}>
   <p className="helper">
-    For acquisition opportunities, founder conversations, broker introductions, and strategic partnerships,
-    please contact Longevity Brands directly.
+    Longevity Brands welcomes confidential conversations with founders, brokers, and strategic partners
+    across the health, wellness, fitness, med spa, recovery, and longevity sectors.
   </p>
 
   <div style={{ marginTop: "1.25rem", display: "grid", gap: "0.75rem" }}>
+    <p><strong>Website:</strong> Longevity-Brands.com</p>
     <p><strong>Email:</strong> acquisitions@longevity-brands.com</p>
     <p><strong>Phone:</strong> 732-610-5655</p>
-    <p><strong>Website:</strong> Longevity-Brands.com</p>
   </div>
+
+  <p className="helper" style={{ marginTop: "1rem" }}>
+    We are interested in acquisition opportunities, founder transitions, strategic partnerships,
+    and broker-introduced opportunities that align with our long-term focus.
+  </p>
 
   <div className="cta-row" style={{ marginTop: "1.5rem" }}>
     <a className="btn btn-primary" href="mailto:acquisitions@longevity-brands.com">
       Email Longevity Brands
     </a>
   </div>
-
-  <p className="helper" style={{ marginTop: "1rem" }}>
-    You can connect a full contact form later. For now, this creates a clean launch-ready contact section
-    without showing a non-working form.
-  </p>
-</div>              </p>
-            </div>
+</div>
           </div>
         </section>
       </main>
