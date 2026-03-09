@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Longevity Brands",
-  description: "Longevity Brands acquires and grows standout businesses in med spa, wellness, recovery, and preventive health."
+  description: "Longevity Brands acquires and grows standout businesses in Longevity, Med-Spa, Wellness, Fitness, and Health Optimization."
 };
 
 import "./globals.css";
