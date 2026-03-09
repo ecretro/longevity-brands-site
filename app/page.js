@@ -14,7 +14,7 @@ const criteria = [
   "Founder-led businesses with strong local or regional brand equity",
   "Recurring revenue or high repeat customer behavior",
   "Clear upside in operations, marketing, expansion, or shared services",
-  "Businesses in med spa, wellness, fitness, recovery, or longevity categories"
+  "Businesses in Med-Spa, Longevity, Fitness, Recovery, or Franchising categories"
 ];
 
 const reasons = [
@@ -58,7 +58,7 @@ export default function HomePage() {
           <div className="container hero-grid">
             <div>
               <div className="pill">Acquisition platform for modern wellness</div>
-              <h1>Building a leading portfolio of health, wellness, fitness, and longevity businesses.</h1>
+              <h1>Building a leading portfolio of Longevity,Med-Spa, Recovery, Wellness, Fitness, and Franchise businesses.</h1>
               <p className="lead">
                 Longevity Brands acquires and grows standout businesses in med spa, wellness, recovery,
                 and preventive health. We combine a premium brand lens with disciplined M&amp;A execution
