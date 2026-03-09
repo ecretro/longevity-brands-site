@@ -58,10 +58,10 @@ export default function HomePage() {
           <div className="container hero-grid">
             <div>
               <div className="pill">Acquisition platform for modern wellness</div>
-              <h1>Building a leading portfolio of Longevity,Med-Spa, Recovery, Wellness, Fitness, and Franchise businesses.</h1>
+              <h1>Building a leading portfolio of Longevity, Med-Spa, Recovery, Wellness, Fitness, and Franchise businesses.</h1>
               <p className="lead">
-                Longevity Brands acquires and grows standout businesses in med spa, wellness, recovery,
-                and preventive health. We combine a premium brand lens with disciplined M&amp;A execution
+                Longevity Brands acquires and grows standout businesses in Med-Spa, Fitness, Longevity, Recovery,
+                and Health Optimization. We combine a premium brand lens with disciplined M&amp;A execution
                 and operator-led value creation.
               </p>
               <div className="cta-row">
@@ -116,7 +116,7 @@ We partner with founders seeking a thoughtful, strategic buyer with a long-term 
               <p>
                 Consumer demand for proactive health, aesthetics, recovery, and longevity services continues
                 to expand. Yet many quality businesses in these categories remain founder-led and operationally
-                underbuilt for their next stage.
+                underbuilt and underresourced for their next stage.
               </p>
               <p>
                 Longevity Brands exists to acquire those businesses thoughtfully, preserve what makes them
